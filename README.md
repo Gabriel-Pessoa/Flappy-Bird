@@ -1,2 +1,6 @@
-# Flappy-Bird
-Project flappy bird. Tecnology integration javascript, CSS e HTML
+# Flappy-Bird-Game
+Project flappy bird game. Tecnology integration javascript, CSS e HTML
+
+![GitHub Logo](flappyBirdImg.png)
+
+
